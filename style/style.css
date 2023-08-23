@@ -1,0 +1,85 @@
+
+html {
+    background-color:whitesmoke;
+    padding:10px;
+}
+
+.news {
+    font-family: 'PT Serif', serif;
+    text-align:center;
+    font-size:40px;
+}
+
+.ali-prof {
+    float:left;
+    margin-right:15px;
+    margin-bottom:15px;
+    border:5px solid black;
+}
+
+.par {
+    text-align:left;
+}
+
+.par-title {
+    font-size:28px;
+    font-weight:bold;
+    margin:0px;
+}
+
+.par-text {
+    font-size:22px;
+    margin:12px;
+    margin-left:0px;
+}
+
+.rumble {
+    float:right;
+    height:415px;
+    width:500px;
+    border:5px solid black;
+    margin-left:15px;
+    margin-bottom:15px;
+    margin-top:0px;
+}
+
+.mac {
+    float:left;
+    height:140px;
+    width:150px;
+    margin-right:15px;
+    border:5px solid black;
+    margin-bottom:15px;
+}
+
+.quar{
+    float:right;
+    height:170px;
+    margin-left:15px;
+    border:5px solid black;
+}
+
+.old {
+    height:168px;
+    float:right;
+    margin-left:15px;
+    border:5px solid black;
+    margin-top:0px;
+    margin-bottom:15px;
+}
+
+.tsiou {
+    font-size:20px;
+}
+
+hr {
+    border:1px solid black;
+}
+
+@media (max-width:680px) {
+    .rumble {
+        height:168px;
+        width:200px;
+    }
+}
+
